@@ -20,4 +20,4 @@ Link para a Tela de Login: [Tela de Login Dark](https://lerraji-sousa.github.io/
 ## 🎯 Funcionalidade
 
 - Campos de entrada para e-mail e senha.
-- Design responsivo para diferentes dispositivos.
+- Design responsivo para diferentes dispositivos
